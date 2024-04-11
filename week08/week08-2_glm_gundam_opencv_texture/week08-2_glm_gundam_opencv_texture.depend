@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+924330300 source:c:\users\administrator\desktop\week08-2_glm_gundam_opencv_texture\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\administrator\desktop\week08-2_glm_gundam_opencv_texture\glm.h
+	<GL/glut.h>
+
+1712823311 source:c:\users\administrator\desktop\week08-2_glm_gundam_opencv_texture\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	"glm.h"
+

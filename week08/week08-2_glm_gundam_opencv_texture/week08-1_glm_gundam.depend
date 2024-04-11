@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+924330300 source:c:\users\administrator\desktop\week08-1_glm_gundam\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\administrator\desktop\week08-1_glm_gundam\glm.h
+	<GL/glut.h>
+
