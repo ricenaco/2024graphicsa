@@ -17,3 +17,14 @@
 	<GL/glut.h>
 	"glm.h"
 
+1715235305 source:c:\users\administrator\desktop\week12\week12-3_glm_gundam_keyboard_angleid_mouse_motion_angle\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1715235305 c:\users\administrator\desktop\week12\week12-3_glm_gundam_keyboard_angleid_mouse_motion_angle\glm.h
+	<GL/glut.h>
+
