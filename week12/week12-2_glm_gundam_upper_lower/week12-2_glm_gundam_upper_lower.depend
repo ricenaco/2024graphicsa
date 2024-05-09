@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1715235305 source:c:\users\administrator\desktop\week12-2_glm_gundam_upper_lower\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1715235305 c:\users\administrator\desktop\week12-2_glm_gundam_upper_lower\glm.h
+	<GL/glut.h>
+
+1715240779 source:c:\users\administrator\desktop\week12-2_glm_gundam_upper_lower\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	"glm.h"
+
