@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1715243945 source:c:\users\administrator\desktop\week13-1_glm_gundam_keyboard__angleid_mouse_motion_angle\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1715243945 c:\users\administrator\desktop\week13-1_glm_gundam_keyboard__angleid_mouse_motion_angle\glm.h
+	<GL/glut.h>
+
+1715243945 source:c:\users\administrator\desktop\week13-1_glm_gundam_keyboard__angleid_mouse_motion_angle\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	"glm.h"
+
+1715243945 source:c:\users\administrator\desktop\week13\week13-1_glm_gundam_keyboard__angleid_mouse_motion_angle\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1715243945 c:\users\administrator\desktop\week13\week13-1_glm_gundam_keyboard__angleid_mouse_motion_angle\glm.h
+	<GL/glut.h>
+
+1715843861 source:c:\users\administrator\desktop\week13\week13-1_glm_gundam_keyboard__angleid_mouse_motion_angle\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	"glm.h"
+
