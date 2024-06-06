@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1717659102 source:c:\users\administrator\desktop\week16\week16-2_glut_glutreshapefunc_gluperspective_glulookat\main.cpp
+	<GL/glut.h>
+
